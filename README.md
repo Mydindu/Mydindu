@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mydindu
+- 👋 Hi, I’m @Chimudindu
 - 👀 I’m interested in Data Science, Machine learning, and artificial intelligence.
 - 🌱 I’m currently learning Python Programming Language.
 - 📫 How to reach me: Provided on request.
